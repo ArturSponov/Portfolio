@@ -574,7 +574,7 @@
         width: 500px;
         height: 400px;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: center;
     }
     .texts {
