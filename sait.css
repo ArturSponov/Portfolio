@@ -530,7 +530,7 @@
         left: 0;
         top: 0;
         content: '';
-
+        transition: all 0.5s ease-in-out;
     }
     .h::after {
       transform: rotate(45deg);  
@@ -552,7 +552,7 @@
         left: 0;
         bottom: 0;
         content: '';
-
+        transition: all 0.5s ease-in-out;
     }
     .spt {
         width: 100%;
